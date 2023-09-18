@@ -12,7 +12,7 @@ namespace Tyuiu.KupriyanovEA.Sprint1.Task0.V20.Lib
     {
         public double Calculate()
         {
-            return 10 + (9 / 3);
+            return 10 + 9 / 3;
         }
     }
 }
