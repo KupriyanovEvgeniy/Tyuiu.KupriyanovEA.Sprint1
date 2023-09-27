@@ -8,8 +8,8 @@
     <ProjectGuid>{9B7DCA1D-4F3E-48F6-A4BE-364F99722A73}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Tyuiu.KupriyanovEA.Sprint1.Task4.V3.Lib.Test</RootNamespace>
-    <AssemblyName>Tyuiu.KupriyanovEA.Sprint1.Task4.V3.Lib.Test</AssemblyName>
+    <RootNamespace>Tyuiu.KupriyanovEA.Sprint1.Task4.V3.Test</RootNamespace>
+    <AssemblyName>Tyuiu.KupriyanovEA.Sprint1.Task4.V3.Test</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>

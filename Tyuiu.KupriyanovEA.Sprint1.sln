@@ -41,7 +41,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KupriyanovEA.Sprint1.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KupriyanovEA.Sprint1.Task4.V3.Lib", "Tyuiu.KupriyanovEA.Sprint1.Task4.V3.Lib\Tyuiu.KupriyanovEA.Sprint1.Task4.V3.Lib.csproj", "{35A788E0-7F83-45D2-ABFA-827A6C68124F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KupriyanovEA.Sprint1.Task4.V3.Lib.Test", "Tyuiu.KupriyanovEA.Sprint1.Task4.V3.Lib.Test\Tyuiu.KupriyanovEA.Sprint1.Task4.V3.Lib.Test.csproj", "{9B7DCA1D-4F3E-48F6-A4BE-364F99722A73}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KupriyanovEA.Sprint1.Task4.V3.Test", "Tyuiu.KupriyanovEA.Sprint1.Task4.V3.Lib.Test\Tyuiu.KupriyanovEA.Sprint1.Task4.V3.Test.csproj", "{9B7DCA1D-4F3E-48F6-A4BE-364F99722A73}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task5", "Task5", "{891F68B4-4DC8-4F23-A56A-7F65DC5D25D1}"
 EndProject
